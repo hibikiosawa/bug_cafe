@@ -8,7 +8,7 @@ $ ruby cafe.rb
 ```
 
 # How to use
-
+aa
 1. 右上の `Fork` ボタンを押してください。
 2. `#{自分のアカウント名}/bug_cafe` が作成されます。
 3. 作業PCの任意の作業ディレクトリにて git clone してください。
